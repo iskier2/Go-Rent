@@ -1,0 +1,16 @@
+item = {
+    name
+    photos = [name]
+    specification = [{name, value}]
+    type = [koparka, wozidło, ubijarka, walec, rembak, ]
+    tags
+    description
+    accesories - akcesoria
+}
+route = {
+    "/",
+    "/product",
+    "/contact",
+    "/about_us"
+}
+handlebars
